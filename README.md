@@ -6,7 +6,7 @@
 - Easy to Read & Write 
 - Widely Used For: <br>
 - - Creating & Consuming APIs:<br>
-- Ideal For Transforming Data Between a Client & a Server.<br>
+- - - Ideal For Transforming Data Between a Client & a Server.<br>
 - -  Configuration Files<br>
 - -  Dependencies Files<br>
 - Supported By Almost Every Programming Language 
